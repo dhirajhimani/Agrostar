@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agrostar</string>
+    <string name="action_locale">Activar Local</string>
+    <string name="Rs">\u20B9</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="search_result">¡Resultado de búsqueda!</string>
+    <string name="search_hint">Tipo y Buscar</string>
+    <string name="menu_search">Buscar</string>
+    <string name="back_exit">Por favor, haga clic en Atrás para salir</string>
+</resources>
